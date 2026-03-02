@@ -49,5 +49,3 @@ npm run dev
 ```
 
 ---
-
-*This project was originally developed under the name Tembo AI and transitioned to the Nexus ecosystem.*
