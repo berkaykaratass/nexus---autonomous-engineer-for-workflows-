@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI - Autonomous Engineer",
+  "description": "An intelligent AI teammate dashboard that orchestrates software tasks, monitors integrations, and manages automated pull requests using Gemini models.",
+  "requestFramePermissions": []
+}
